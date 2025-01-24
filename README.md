@@ -1,12 +1,12 @@
 # swift-challenges
-A collection of coding challenges written in Swift
+A collection of coding challenges written in Swift.
 
+## Challenges
+1. **Challenge 01** - Basic Calculus  
+2. **Challenge 02** - Arrays and Sets  
+3. **Challenge 03** - FizzBuzz Challenge  
+4. **Challenge 04** - Throwing Errors, Enums, and Functions  
 
-challenge 01  -  basic calculus
-challenge 02  -  arrays and sets 
-challenge 03  -  fizzbuzz challenge
-challenge 04  -  throwing errors, enums and functions
-
-*Others*
-12 Days of Christmas
-Compare Two Strings
+### Others
+- 12 Days of Christmas  
+- Compare Two Strings
