@@ -1,4 +1,4 @@
-# swift-challenges
+# Swift Challenges
 A collection of coding challenges written in Swift.
 
 ## Challenges
