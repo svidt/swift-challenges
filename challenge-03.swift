@@ -1,7 +1,8 @@
+// 2 examples
+
 import UIKit
 
-// FizzBuzz
-
+// FizzBuzz example 1
 for i in 1...100 {
     
     var output: String = "\(i)"
@@ -17,3 +18,19 @@ for i in 1...100 {
     }
     print(output)
 }
+
+// FizzBuzz example 2
+let NUM: Int = 100
+
+for i in 1..<NUM {
+    if i % 3 == 0 && i % 5 == 0 {
+        print("FizzBuzz")
+    } else if i % 5 == 0 {
+        print("Buzz")
+    } else if i % 3 == 0 {
+        print("Fizz")
+    } else {
+        print("\(i)")
+    }
+}
+
