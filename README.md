@@ -9,7 +9,7 @@ A collection of coding challenges written in Swift.
 
 ## Folders
 - Linked Lists
-  - Single Linked List
+  - Singly Linked List
   - Doubly Linked List
   - Circular LinkedList
 ### Others
