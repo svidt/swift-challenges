@@ -11,7 +11,7 @@ A collection of coding challenges written in Swift.
 - Linked Lists
   - Singly Linked List
   - Doubly Linked List
-  - Circular LinkedList
+  - Circular Linked List
 ### Others
 - 12 Days of Christmas  
 - Compare Two Strings
