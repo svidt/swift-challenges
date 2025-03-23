@@ -7,6 +7,11 @@ A collection of coding challenges written in Swift.
 3. **Challenge 03** - FizzBuzz Challenge  
 4. **Challenge 04** - Throwing Errors, Enums, and Functions  
 
+## Folders
+- Linked Lists
+  - Single Linked List
+  - Doubly Linked List
+  - Circular LinkedList
 ### Others
 - 12 Days of Christmas  
 - Compare Two Strings
